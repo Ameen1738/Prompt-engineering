@@ -1,6 +1,12 @@
 # Captain's App
 
-Captain's App is a football team management web app designed to help captains organise their team in one place. The app allows captains and players to manage availability, team sheets, payments, notifications, profiles, and team communication.
+Captain's App is a football team management web app designed to help captains organise their team in one place. The app helps manage players, availability, team sheets, payments, notifications, profiles, and communication.
+
+## Live Demo
+
+View the live Canva version here:
+
+https://captaintest.my.canva.site/captain
 
 ## Features
 
@@ -20,36 +26,22 @@ Captain's App is a football team management web app designed to help captains or
 - HTML
 - CSS
 - JavaScript
-- Tailwind CSS
 - Canva AI
 - Prompt engineering
 
-## How It Works
+## Project Status
 
-The app has two main roles: admin and player.
-
-Admins can manage the team, view player availability, create team sheets, send payment reminders, and communicate with players.
-
-Players can log in, update their availability, view team information, check notifications, and use payment-related features.
-
-## Project Background
-
-This project was created using prompt engineering through Canva AI. The application code was exported and uploaded to GitHub as part of my software development portfolio.
-
-## Current Status
-
-This version is an early prototype. Some features may depend on Canva-specific SDK scripts, so extra development may be needed for the app to work fully outside Canva.
+This is an early prototype created using Canva AI and prompt engineering. The current live version is hosted through Canva. The code has also been uploaded to GitHub for documentation and future development.
 
 ## Future Improvements
 
-- Replace Canva SDK storage with browser localStorage or a real database
-- Add secure authentication
-- Improve mobile responsiveness
-- Add real payment integration
+- Make the app work fully outside Canva
+- Replace Canva SDK storage with localStorage or a database
+- Add secure user authentication
 - Add match result tracking
 - Add squad statistics
-- Add push notifications
-- Deploy as a live web app
+- Improve mobile responsiveness
+- Deploy as a standalone web app
 
 ## Author
 
