@@ -2,6 +2,23 @@
 
 Captain's App is a football team management web app designed to help captains organise their team in one place. The app helps manage players, availability, team sheets, payments, notifications, profiles, and communication.
 
+## Screenshots
+
+### Loading Screen
+![Loading Screen](screenshots/screenshots/screenshots/Loading-screen.png.png)
+
+### Login Screen
+![Login Screen](screenshots/screenshots/screenshots/login-screen.png.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/screenshots/screenshots/Admin-Dashboard.png.png)
+
+### Player Dashboard
+![Player Dashboard](screenshots/screenshots/screenshots/player-dashboard.png.png)
+
+
+
+
 ## Live Demo
 
 View the live Canva version here:
